@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 \\added some comments
+=======
+\\added some comment
+>>>>>>> Stashed changes
 #include <iostream>
 #include <string>
 #include <vector>
